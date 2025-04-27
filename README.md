@@ -1,6 +1,5 @@
-# 🎮 THE ROYAL ONE (TR1) | Redefining Competitive Gaming 🏆
-
-![THE ROYAL ONE](https://github.com/user-attachments/assets/e47234e2-2855-4ceb-bd8e-30e8afc1d52d)
+# 🎮 THE ROYAL ONE (TR1) | E-Sports Competitive Team🏆
+### *🔴Live Preview* - https://syedtayefali369.github.io/TR1-Esports-.github.io/
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Discord](https://img.shields.io/discord/12345678910111213?label=Join%20Our%20Discord)](https://discord.gg/tr1esports)
@@ -8,23 +7,15 @@
 
 **Welcome to the official GitHub hub of TR1 Esports** - Where elite gaming meets cutting-edge innovation. Explore our ecosystem of competitive teams, community projects, and open-source tools powering the future of esports.
 
-## 🚀 About TR1 Esports
-
-```text
-████████╗██████╗ ██╗
-╚══██╔══╝██╔══██╗██║
-   ██║   ██████╔╝██║
-   ██║   ██╔══██╗██║
-   ██║   ██║  ██║██
-   ╚═╝   ╚═╝  ╚═╝╚═
-```
+## 🚀 About TR1 
+---------------------------------------------------
 We are a global esports organization dedicated to:
 - 🏅 Cultivating world-class competitive teams
 - 🌐 Building bridges between gamers worldwide
 - 💡 Developing innovative esports infrastructure
 - 🎥 Creating premium gaming content
-
-## ✨ Key Features
+---------------------------------------------------
+![THE ROYAL ONE](https://github.com/user-attachments/assets/e47234e2-2855-4ceb-bd8e-30e8afc1d52d)
 
 ### 🛡️ Professional Teams
 - **PUBG MOBILE**
